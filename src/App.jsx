@@ -22,10 +22,10 @@ import {
 const theme = createTheme({
   palette: {
     primary: {
-      main: "#0969da",
+      main: "#ff6f61",
     },
     background: {
-      default: "#f6f8fa",
+      default: "#f5f5f5",
     },
   },
 });
